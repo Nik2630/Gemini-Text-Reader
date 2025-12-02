@@ -12,6 +12,10 @@ Designed for deep reading, this application breaks text down sentence-by-sentenc
 - **Smart Extraction**: Paste any URL to automatically strip ads and clutter using Mozilla Readability.
 - **Pure Black UI**: Optimized for OLED screens and late-night reading sessions.
 
+<img width="959" height="695" alt="image" src="https://github.com/user-attachments/assets/247eeb48-04c9-4f29-b24c-fac0d30d8f6d" />
+<img width="948" height="686" alt="image" src="https://github.com/user-attachments/assets/86c3dd2c-8ad7-482b-8370-a8f75334b4b2" />
+
+
 ## Tech Stack
 
 - **AI**: Google Gemini 2.5 Flash (via `@google/genai`)
