@@ -4,6 +4,8 @@ An aesthetic text-to-speech reader powered by Google's Gemini 2.5 Flash Native A
 
 Designed for deep reading, this application breaks text down sentence-by-sentence, generating context-aware audio that understands intonation and emotion better than traditional TTS engines.
 
+[Try on Google AI Studio](https://ai.studio/apps/drive/1d0Dpe5xwSFnIn7p89gvLKkuKcRvX_-Nw?fullscreenApplet=true)
+
 ## Features
 
 - **Context-Aware Narration**: Uses previous and next sentences to inform the prosody of the current line.
