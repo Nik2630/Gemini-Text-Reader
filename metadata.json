@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Text Reader",
+  "description": "An aesthetic text-to-speech reader using Gemini Native Audio. Features sentence-by-sentence reading with context awareness, voice selection, and a clean dark mode UI.",
+  "requestFramePermissions": []
+}
