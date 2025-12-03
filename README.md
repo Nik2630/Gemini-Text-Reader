@@ -31,4 +31,5 @@ Designed for deep reading, this application breaks text down sentence-by-sentenc
 ## 🚨 Vibe Coding Alert
 
 This project was 99% vibe coded as a fun hack when I ran out of free hours on the Eleven Reader app and Google's default TTS engine felt too robotic.
-This app can be improved by better prompting, and other features like playback speed, PDF input, etc.
+
+This app can still be improved by better prompting, and other features like playback speed, PDF input, etc. Feel free to make a pull request.
